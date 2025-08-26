@@ -10,10 +10,3 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-fun main(){
-
-    var name : String = "Akanksha"
-    print(name)
-
-
-}
